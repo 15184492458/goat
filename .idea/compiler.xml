@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="goat-core" />
+        <module name="goat-data" />
+        <module name="goat-leetcode" />
+        <module name="goat-spring" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="goat" target="1.8" />
+      <module name="goat-core" target="1.8" />
+      <module name="goat-data" target="1.8" />
+      <module name="goat-leetcode" target="1.8" />
+      <module name="goat-spring" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

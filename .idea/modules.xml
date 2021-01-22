@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/goat.iml" filepath="$PROJECT_DIR$/goat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goat-core/goat-core.iml" filepath="$PROJECT_DIR$/goat-core/goat-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goat-data/goat-data.iml" filepath="$PROJECT_DIR$/goat-data/goat-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goat-leetcode/goat-leetcode.iml" filepath="$PROJECT_DIR$/goat-leetcode/goat-leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goat-spring/goat-spring.iml" filepath="$PROJECT_DIR$/goat-spring/goat-spring.iml" />
+    </modules>
+  </component>
+</project>
